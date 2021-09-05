@@ -766,7 +766,7 @@ function addToWallet() {
                     'address': '0xb8ae13248b1c156fa4eaa707dd63123d5715df1e',
                     'symbol': 'NBTC',
                     'decimals': '18',
-                    'image': 'https://nbitcoin.net/images/logoa.png',
+                    'image': 'https://nbitcoin.net/assets/images/logoa.png',
                 },
             },
             id: Math.round(Math.random() * 100000)
